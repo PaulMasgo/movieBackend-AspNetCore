@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L5M1LuUWLfiE0r+wQPl2RqPhRIQ9tUjNH0YFgl6Vb4NwojkWfPR6478SWODgNx2o0cq9w5ECL+9c+E1elMN6KA==",
+  "dgSpecHash": "ZP0qZ/ZHNovFCErGfCVFnhs42CIbIf9uJO0/bl2ehSYtij1Sdgm8MnvrykBwqske1nnJ41XFYyEXxtqnhcj61w==",
   "success": true,
-  "projectFilePath": "D:\\Practicas Proyectos\\C#\\Web Api\\MovieApi\\MovieApi\\MovieApi.csproj",
+  "projectFilePath": "D:\\Proyectos\\AspNet\\MovieAPI\\MovieApi\\MovieApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ramos\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ramos\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

@@ -7,6 +7,7 @@ namespace MovieApi.Context
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
+            
         }
 
         public DbSet<Category> Categories { get; set; }
@@ -16,26 +17,10 @@ namespace MovieApi.Context
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
-            builder.Entity<Category>(entity =>
-            {
-                entity.ToTable("Category");
-            });
-
-            builder.Entity<Movie>(entity =>
-            {
-                entity.ToTable("Movie");
-            });
-            
-            builder.Entity<Actor>(entity =>
-            {
-                entity.ToTable("Actor");
-            });
-            
-            builder.Entity<MovieActor>(entity =>
-            {
-                entity.ToTable("MovieActor");
-            });
-            
+            builder.Entity<Category>(entity => { entity.ToTable("Category"); });
+            builder.Entity<Movie>(entity => { entity.ToTable("Movie"); });
+            builder.Entity<Actor>(entity => { entity.ToTable("Actor"); });
+            builder.Entity<MovieActor>(entity => { entity.ToTable("MovieActor"); });
         }
     }
 }

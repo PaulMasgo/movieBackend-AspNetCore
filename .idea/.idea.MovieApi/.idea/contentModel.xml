@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ramos\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ramos\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_MovieApi.1785599998.00" t="ExcludeRecursive" />
+    <e p="D:\Practicas Proyectos\C#\Web Api\MovieApi" t="IncludeFlat">
+      <e p="MovieApi" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Context" t="Include">
+          <e p="ApplicationDbContext.cs" t="Include" />
+        </e>
+        <e p="Controllers" t="Include" />
+        <e p="Entities" t="Include">
+          <e p="Actor.cs" t="Include" />
+          <e p="Category.cs" t="Include" />
+          <e p="Movie.cs" t="Include" />
+          <e p="MovieActor.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20201007013444_InitialCreate.cs" t="Include" />
+          <e p="20201007013444_InitialCreate.Designer.cs" t="Include" />
+          <e p="ApplicationDbContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="MovieApi.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="MovieApi.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="MovieApi.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

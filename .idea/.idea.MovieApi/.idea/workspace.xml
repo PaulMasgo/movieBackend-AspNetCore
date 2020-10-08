@@ -23,21 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ae75316-a43f-479c-bee1-b325853d1736" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieApi/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieApi/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MovieApi/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MovieApi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieApi/Context/ApplicationDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MovieApi/Context/ApplicationDbContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieApi/Migrations/20201007013444_InitialCreate.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieApi/Migrations/20201007013444_InitialCreate.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieApi/Migrations/ApplicationDbContextModelSnapshot.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieApi/MovieApi.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MovieApi/MovieApi.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieApi/bin/Debug/netcoreapp3.1/MovieApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MovieApi/bin/Debug/netcoreapp3.1/MovieApi.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieApi/bin/Debug/netcoreapp3.1/MovieApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MovieApi/bin/Debug/netcoreapp3.1/MovieApi.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MovieApi/obj/Debug/netcoreapp3.1/MovieApi.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MovieApi/obj/Debug/netcoreapp3.1/MovieApi.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieApi/obj/Debug/netcoreapp3.1/MovieApi.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MovieApi/obj/Debug/netcoreapp3.1/MovieApi.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieApi/obj/Debug/netcoreapp3.1/MovieApi.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MovieApi/obj/Debug/netcoreapp3.1/MovieApi.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MovieApi/obj/Debug/netcoreapp3.1/MovieApi.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MovieApi/obj/Debug/netcoreapp3.1/MovieApi.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieApi/obj/Debug/netcoreapp3.1/MovieApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MovieApi/obj/Debug/netcoreapp3.1/MovieApi.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieApi/obj/Debug/netcoreapp3.1/MovieApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MovieApi/obj/Debug/netcoreapp3.1/MovieApi.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MovieApi/obj/MovieApi.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MovieApi/obj/MovieApi.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MovieApi/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MovieApi/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MovieApi/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MovieApi/obj/project.nuget.cache" afterDir="false" />
@@ -124,6 +114,7 @@
       <workItem from="1602014848519" duration="6854000" />
       <workItem from="1602037916730" duration="435000" />
       <workItem from="1602038415863" duration="1444000" />
+      <workItem from="1602165931030" duration="178000" />
     </task>
     <servers />
   </component>
@@ -142,6 +133,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

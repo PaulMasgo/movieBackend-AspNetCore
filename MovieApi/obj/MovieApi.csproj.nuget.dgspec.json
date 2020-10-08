@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyectos\\AspNet\\MovieAPI\\MovieApi\\MovieApi.csproj": {}
+    "D:\\Practicas Proyectos\\C#\\Web Api\\MovieApi\\MovieApi\\MovieApi.csproj": {}
   },
   "projects": {
-    "D:\\Proyectos\\AspNet\\MovieAPI\\MovieApi\\MovieApi.csproj": {
+    "D:\\Practicas Proyectos\\C#\\Web Api\\MovieApi\\MovieApi\\MovieApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos\\AspNet\\MovieAPI\\MovieApi\\MovieApi.csproj",
+        "projectUniqueName": "D:\\Practicas Proyectos\\C#\\Web Api\\MovieApi\\MovieApi\\MovieApi.csproj",
         "projectName": "MovieApi",
-        "projectPath": "D:\\Proyectos\\AspNet\\MovieAPI\\MovieApi\\MovieApi.csproj",
+        "projectPath": "D:\\Practicas Proyectos\\C#\\Web Api\\MovieApi\\MovieApi\\MovieApi.csproj",
         "packagesPath": "C:\\Users\\ramos\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos\\AspNet\\MovieAPI\\MovieApi\\obj\\",
+        "outputPath": "D:\\Practicas Proyectos\\C#\\Web Api\\MovieApi\\MovieApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ramos\\AppData\\Roaming\\NuGet\\NuGet.Config",

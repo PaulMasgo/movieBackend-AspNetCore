@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "D:\\Proyectos\\AspNet\\MovieAPI\\MovieApi\\MovieApi.csproj",
+    "projectUniqueName": "D:\\Practicas Proyectos\\C#\\Web Api\\MovieApi\\MovieApi\\MovieApi.csproj",
     "projectName": "MovieApi",
-    "projectPath": "D:\\Proyectos\\AspNet\\MovieAPI\\MovieApi\\MovieApi.csproj",
-    "outputPath": "D:\\Proyectos\\AspNet\\MovieAPI\\MovieApi\\obj\\",
+    "projectPath": "D:\\Practicas Proyectos\\C#\\Web Api\\MovieApi\\MovieApi\\MovieApi.csproj",
+    "outputPath": "D:\\Practicas Proyectos\\C#\\Web Api\\MovieApi\\MovieApi\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"

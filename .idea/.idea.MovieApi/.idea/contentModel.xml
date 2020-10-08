@@ -14,6 +14,7 @@
         <e p="Controllers" t="Include" />
         <e p="Entities" t="Include">
           <e p="Actor.cs" t="Include" />
+          <e p="BaseEntity.cs" t="Include" />
           <e p="Category.cs" t="Include" />
           <e p="Movie.cs" t="Include" />
           <e p="MovieActor.cs" t="Include" />
@@ -36,6 +37,7 @@
           <e p="launchSettings.json" t="Include" />
         </e>
         <e p="Repository" t="Include">
+          <e p="GenericAsyncRepository.cs" t="Include" />
           <e p="Interfaces" t="Include">
             <e p="IGenericAsyncRepository.cs" t="Include" />
           </e>

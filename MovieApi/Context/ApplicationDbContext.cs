@@ -30,7 +30,7 @@ namespace MovieApi.Context
                 }
             }
 
-            return SaveChangesAsync(cancellationToken);
+            return base.SaveChangesAsync(cancellationToken);
         }
 
         protected override void OnModelCreating(ModelBuilder builder)

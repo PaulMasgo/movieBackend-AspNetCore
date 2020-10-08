@@ -120,3 +120,5 @@ D:\Proyectos\AspNet\MovieAPI\MovieApi\obj\Debug\netcoreapp3.1\staticwebassets\Mo
 D:\Proyectos\AspNet\MovieAPI\MovieApi\obj\Debug\netcoreapp3.1\MovieApi.dll
 D:\Proyectos\AspNet\MovieAPI\MovieApi\obj\Debug\netcoreapp3.1\MovieApi.pdb
 D:\Proyectos\AspNet\MovieAPI\MovieApi\obj\Debug\netcoreapp3.1\MovieApi.genruntimeconfig.cache
+D:\Practicas Proyectos\C#\Web Api\MovieApi\MovieApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Practicas Proyectos\C#\Web Api\MovieApi\MovieApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
